@@ -6,4 +6,17 @@
     }
 
 
+.th {
+    background-color: #4CAF50;
+    color: white;
+}
 
+.td {
+    background-color: black;
+    color: white;
+}
+
+.tb{
+    background-color:lightgreen;
+    color: black;
+}
